@@ -1,0 +1,5 @@
+{
+    "bake_version": 0,
+    "failed_last_bake": true,
+    "last_bake_errors": "Cannot re-bake a file that references compressed textures"
+}
